@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
       <!-- Kiri: Deskripsi -->
       <div>
-        <div class="border rounded-lg p-6 shadow-md bg-white dark:bg-[#1f1e1c]">
+        <div class="border rounded-lg p-6 shadow-md bg-white dark:bg-blue-900">
           <h2 class="text-3xl font-bold text-gray-900 dark:text-white mb-4">Get to know me!</h2>
           <p class="text-lg text-gray-700 dark:text-gray-300">
             I hold a Bachelor's degree in Informatics Engineering, with expertise in building and
@@ -28,7 +28,7 @@
             :class="[
               'h-24 w-24 sm:h-28 sm:w-28 flex flex-col justify-center items-center',
               'rounded-lg p-2 shadow-md border border-transparent hover:border-teal-400',
-              'bg-white dark:bg-[#1f1e1c] text-center transition-all duration-700 ease-out transform',
+              'bg-white dark:bg-blue-900 text-center transition-all duration-700 ease-out transform',
               visibleItems[index]
                 ? 'opacity-100 translate-y-0 scale-100'
                 : 'opacity-0 translate-y-6 scale-95',
