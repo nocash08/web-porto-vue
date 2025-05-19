@@ -1,5 +1,5 @@
 <template>
-  <section id="skills" class="-mt-20 px-4 sm:px-6 lg:px-0">
+  <section id="skills" class="mt-0 px-4 sm:px-6 lg:px-0">
     <SectionHeader title="My Skills" />
     <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
       <!-- Kiri: Deskripsi -->

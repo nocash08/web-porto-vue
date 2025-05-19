@@ -6,12 +6,12 @@
     <button
       class="swiper-prev absolute top-2/3 left-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-blue-900 p-4 rounded-full"
     >
-      <Icon icon="line-md:arrow-left" class="font-bold text-3xl" />
+      <Icon icon="line-md:arrow-left" class="font-bold text-xl" />
     </button>
     <button
       class="swiper-next absolute top-2/3 right-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-blue-900 p-4 rounded-full"
     >
-      <Icon icon="line-md:arrow-right" class="font-bold text-3xl" />
+      <Icon icon="line-md:arrow-right" class="font-bold text-xl" />
     </button>
 
     <!-- Swiper Component -->
