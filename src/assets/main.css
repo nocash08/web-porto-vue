@@ -1,3 +1,19 @@
 @import "tailwindcss";
 
 @custom-variant dark (&:where(.dark, .dark *));
+
+@layer utilities {
+  .stroke-text {
+    --tw-text-opacity: 1;
+    -webkit-text-stroke-width: 1.4px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: #1e3a8a;
+  }
+
+  .dark .stroke-text {
+    --tw-text-opacity: 1;
+    -webkit-text-stroke-width: 1.4px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: #ffeb00;
+  }
+}
