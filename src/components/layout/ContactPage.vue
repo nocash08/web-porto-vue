@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-20" id="contact">
+  <section class="mt-10" id="contact">
     <SectionHeader title="Contact Me" />
     <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
       <form
@@ -19,7 +19,7 @@
         <div class="flex justify-between">
           <button
             type="submit"
-            class="font-semibold text-lg w-[10rem] h-[55px] group flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-blue-500 hover:from-purple-700 hover:to-blue-600 text-white rounded-lg duration-300 hover:shadow-purple-300 dark:from-yellow-400 dark:to-pink-500 dark:hover:from-yellow-500 dark:hover:to-pink-600 dark:text-white"
+            class="font-semibold text-lg w-[8rem] h-[55px] group flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-blue-500 hover:from-purple-700 hover:to-blue-600 text-white rounded-lg duration-300 hover:shadow-purple-300 dark:from-yellow-400 dark:to-pink-500 dark:hover:from-yellow-500 dark:hover:to-pink-600 dark:text-white"
           >
             <span class="ml-1">Send</span>
           </button>

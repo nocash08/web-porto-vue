@@ -1,15 +1,15 @@
 <template>
-  <section id="projects" class="relative mx-auto mt-20">
+  <section id="projects" class="relative mx-auto mt-10">
     <SectionHeader title="My Projects" />
 
     <!-- Custom Navigation Buttons -->
     <button
-      class="swiper-prev absolute top-2/3 left-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-blue-900 p-4 rounded-full"
+      class="swiper-prev absolute top-2/3 left-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-gray-500 p-4 rounded-full"
     >
       <Icon icon="line-md:arrow-left" class="font-bold text-xl" />
     </button>
     <button
-      class="swiper-next absolute top-2/3 right-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-blue-900 p-4 rounded-full"
+      class="swiper-next absolute top-2/3 right-4 transform -translate-y-1/2 z-10 text-white dark:bg-yellow-600 bg-gray-500 p-4 rounded-full"
     >
       <Icon icon="line-md:arrow-right" class="font-bold text-xl" />
     </button>
