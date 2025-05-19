@@ -50,7 +50,7 @@
             class="relative w-full h-full rounded-xl overflow-hidden shadow-lg border-4 border-white/5"
           >
             <img
-              src="@/assets/images/photo-port.jpg"
+              src="@/assets/photo-port.jpg"
               alt="Hero picture"
               class="w-full h-full object-cover"
               loading="lazy"
