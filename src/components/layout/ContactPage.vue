@@ -39,7 +39,7 @@
               <Icon icon="fa-brands:github" style="font-size: 2rem" />
             </a>
             <a
-              href="https://wa.me/081280218224"
+              href="https://wa.me/6281280218224"
               class="text-gray-600 hover:text-green-500"
               target="_blank"
             >
